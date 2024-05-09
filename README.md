@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vanshikaa1444
 - 👀 I’m interested in AIML,Web dev and App dev
-- 🌱 I’m currently learning in 2nd year of Btech (AIML)
+- 🌱 I’m currently
+-  in 2nd year of Btech (AIML)
 
 
 <!---
