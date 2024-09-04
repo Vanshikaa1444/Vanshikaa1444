@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vanshika Jadhav</h1>
-<h3 align="center">A passionate AIML and Web dev enthusiast, 2nd year AIML student at PES University</h3>
+<h3 align="center">A passionate AIML and Web dev enthusiast, 3rd year AIML student at PES University</h3>
 
-- 🔭 I’m currently working on **Computer vision projects**
+- 🔭
 
-- 🌱 I’m currently learning **LLMs and Big Data**
+- 🌱 
 
 - 👯 I’m looking to collaborate on **anything in general. Always open to learning and exploring new tech!!**
 
